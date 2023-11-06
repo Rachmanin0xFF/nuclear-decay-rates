@@ -1,2 +1,3 @@
 # nuclear-decay-rates
-eigenvector analysis of the nuclear decay network
+An eigenvector analysis of the nuclear decay network using the [NNDC's](https://www.nndc.bnl.gov/) NuDat set.
+W.I.P.!
