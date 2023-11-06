@@ -54,7 +54,7 @@ def gen_nuclide_matrix(path):
         index = names.index(row['name'])
         zn = (int(row['z']), int(row['n']))
         zn_lookup[zn] = index
-
+    a = set()
     # fill the matrix
     for _ , row in frame.iterrows():
         index = names.index(row['name'])
@@ -82,15 +82,17 @@ def gen_nuclide_matrix(path):
             # nudat has this stuff in an awkward format: for example, a 100% B- decay probability
             # means a NET 100% beta decay probability, including B-N, B-2N, B-3N, etc. decays
             # so I need to know ALL the probabilities before I can get partial decay rates...
-            mode = str(row['decayMode'])
+            mode = str(row['decayModes'])
+
+            
             if not ('?' in mode):
                 if '=' in mode:
+                    a.add(mode)
                     pass
                 else:
                     pass
-
-
-
+    print(a)
+    
     print(ground_codes)
     #plt.imshow(M)
     #plt.show()
