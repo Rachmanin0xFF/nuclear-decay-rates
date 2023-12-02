@@ -58,7 +58,7 @@ def gen_nuclide_matrix(path):
     # fill the matrix
     for _ , row in frame.iterrows():
         index = names.index(row['name'])
-
+        
         if is_ground_state[index]:
             half_life = 0.0
             time_unit = str(row['halflifeUnit'])
@@ -83,7 +83,6 @@ def gen_nuclide_matrix(path):
             # means a NET 100% beta decay probability, including B-N, B-2N, B-3N, etc. decays
             # so I need to know ALL the probabilities before I can get partial decay rates...
             mode = str(row['decayModes'])
-
             
             if not ('?' in mode):
                 if '=' in mode:

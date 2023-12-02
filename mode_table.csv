@@ -1,0 +1,69 @@
+Decay Type,dA,dZ,dN,,,,where is it?
+'&alpha;',-4,-2,-2,,,0,
+ 'ec &beta;+',0,-1,1,,,1,
+ '&beta;-',0,1,-1,,,2,
+ 'IT',0,0,0,,,3,
+ 'p',-1,-1,0,,,4,
+ 'n',-1,0,-1,,,5,
+ '&beta;- n',-1,1,-2,,,6,
+ 'ec',0,-1,1,,,7,
+ 'SF',SF,SF,SF,,,8,
+ 'D',,,,,,9,unused
+ 'ec p',-1,-2,1,,,10,
+ '<sup>3</sup>He',-3,-2,-1,,,11,
+ '&beta;+ p',-1,-2,1,,,12,
+ '<sup>3</sup>H',-3,-1,-2,,,13,
+ 'G',G,G,G,,,14,
+ '&beta;+',0,-1,1,,,15,
+ 'ec &alpha;',-4,-3,-1,,,16,
+ '&beta;- 2n',-2,1,-3,,,17,
+ '<sup>8</sup>Be',,,,,,18,unused
+ '&beta;+ &alpha;',-4,-3,-1,,,19,
+ '2&beta;-',0,2,-2,,,20,
+ '2p',-2,-2,0,,,21,
+ '&beta;- &alpha;',-4,-1,-3,,,22,
+ '<sup>12</sup>C',-12,-6,-6,,,23,Around 221Fr
+ 'ec 2p',-2,-3,1,,,24,
+ '&beta;+ 2p',-2,-3,1,,,25,
+ '2&beta;+',0,-2,2,,,26,
+ '<sup>28</sup>Mg',,,,,,27,unused
+ 'ec SF',,,,,,28,unused
+ '&beta;- 3n',-3,1,-4,,,29,
+ '2ec',0,-2,2,,,30,
+ '<sup>24</sup>Ne',,,,,,31,unused
+ 'ec F',,,,,,32,unused
+ 'Ne',,,,,,33,unused
+ 'ec p ec 2p',-3,-5,2,,,34,
+ '<sup>22</sup>Ne',-22,-10,-12,,,35,230U
+ '<sup>34</sup>Si',,,,,,36,unused
+ 'ec (SF)',,,,,,37,unused
+ '<sup>24</sup>Ne',-24,-10,-14,,,38,around 230Th
+ '&beta; fission',,,,,,39,unused
+ 'SF (ec &beta;+)',,,,,,40,unused
+ 'SF &beta;-',,,,,,41,unused
+ '&beta;- 4n',-4,1,-5,,,42,17B
+ '&alpha;?',-4,-2,-2,,?,43,unused
+ 'SF ec &beta;-',,,,,,44,unused
+ 'IT ec &beta;+',0,-1,1,,,45,unused
+ 'ec 3p',-3,-4,1,,,46,"18/13,24/19"
+ '<sup>20</sup>Ne',,,,,,47,unused
+ 'IT?',0,0,0,,,48,unused
+ '&beta;- F',,,,,,49,unused
+ '&beta;+ ec',0,-1,1,,?,50,unused
+ '<sup>20</sup>O',,,,,,51,unused
+ 'Mg',,,,,,52,unused
+ 'ec &alpha; p',-5,-4,-1,,?,53,unused
+ '2|e',,,,,,54,unused
+ '&beta;- p',-1,0,-1,,,55,11Be
+ '<sup>12</sup>C',,,,,,56,unused
+ '<sup>20</sup>Ne',-20,-10,-10,,,57,114Ba
+ '<sup>34</sup>Si',,,,,,58,unused
+ '<sup>22</sup>Ne',-22,-10,-12,,,59,"242Cm, 240Pu"
+ '2n',-2,0,-2,,,60,unused
+ 'ec SF',SF,SF,SF,,,61,light elements near the neutron dripline
+ 'SF ec &beta;+',,,,,,62,unused
+ '&beta;+ 3p',-3,-4,1,,,63,unused
+ '&beta;- SF',SF,SF,SF,,,64,Around 230Ac
+ '&beta;- n',-1,1,-2,,,65,unused
+ '&beta;+ F',,,,?,,66,unused
+ '<sup>28</sup>Mg',,,,,,67,unused
