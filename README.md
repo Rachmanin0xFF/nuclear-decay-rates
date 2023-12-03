@@ -1,4 +1,4 @@
 # nuclear-decay-rates
-An eigenvector analysis of the nuclear decay network using the [NNDC's](https://www.nndc.bnl.gov/) NuDat set.
+Construction and analysis (TODO) of the nuclear decay network using the NUBASE2020 data set.
 
 A W.I.P.!
