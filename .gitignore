@@ -1,3 +1,8 @@
+# Specific to this project
+M.csv
+M_full.csv
+log*.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
