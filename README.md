@@ -1,5 +1,5 @@
 # nuclear-decay-rates
-Construction and analysis (TODO) of the nuclear decay network using the NUBASE2020 data set.
+Construction (DONE) and analysis (TODO) of the nuclear decay network using the NUBASE2020 data set.
 
 A W.I.P.! (I'm planning to publish this in an education journal when I get the chance)
 
